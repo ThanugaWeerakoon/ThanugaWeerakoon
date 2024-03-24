@@ -17,10 +17,9 @@
 </a>
 
 - 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
+- 🌱 I’m currently learning **Competitive Programming**
+- 👯 I’m looking to collaborate on **Web Development & UI/UX Design**
 - 🤔 I’m looking for with **Internships**
-- 💬 Ask me about Anything [here](https://github.com/smir45/smir45/issues/1)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
 
 
