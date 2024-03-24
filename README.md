@@ -44,13 +44,11 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **OOP with Java**
+- 🌱 I’m currently learning **ELECTRON & REACT NATIVE**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **IIT**
 
-- 💬 Ask me about **Web development | OOC**
-
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **thanuga2015@gmail.com**
   
 - ⚡ Fun fact **Call me as KD**
 
