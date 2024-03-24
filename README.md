@@ -6,9 +6,9 @@
 
 <h2> // About me </h2>
 
-- 👨‍💻 Currently working as a **front-end developer**
-- 🤓 Seeking to become a **full-stack developer**
-- 🎓 I'm also pursuing a bachelors degree in **software engineering**
+- 👨‍💻 Currently working as a **Front-end Developer**
+- 🤓 Seeking to become a **Full-Stack Developer**
+- 🎓 I'm also pursuing a bachelors degree in **Software Engineering**
 
 <h2>  // Skills  </h2>
   
