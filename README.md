@@ -3,14 +3,6 @@
 <div>
 
 <img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
-
-<h2> // About me </h2>
-
-- 👨‍💻 Currently working as a **Front-end Developer**
-- 🤓 Seeking to become a **Full-Stack Developer**
-- 🎓 I'm also pursuing a bachelors degree in **Software Engineering**
-
-<h2>  // Skills  </h2>
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
@@ -34,6 +26,14 @@
   </td>
 </tr>
 </table>
+
+<h2> // About me </h2>
+
+- 👨‍💻 Currently working as a **Front-end Developer**
+- 🤓 Seeking to become a **Full-Stack Developer**
+- 🎓 I'm also pursuing a bachelors degree in **Software Engineering**
+
+<h2>  // Skills  </h2>
   
 - <h3> Programming & Markup languages </h3>
   
