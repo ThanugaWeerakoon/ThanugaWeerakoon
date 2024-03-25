@@ -50,7 +50,7 @@
 
 - 📫 How to reach me **thanuga2015@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as KID**
 
 </td>
 <td width="50%" align="center">
